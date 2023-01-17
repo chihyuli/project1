@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["style.scss","style.css"],"names":[],"mappings":"AAAA;EACI,SAAA;EACA,UAAA;ACCJ;;ADCA;EACI,eAAA;ACEJ","file":"style.css"}
+=======
+{"version":3,"sources":["style.scss","style.css"],"names":[],"mappings":"AAAA;EACI,SAAA;EACA,UAAA;ACCJ;;ADCA;EACI,gBAAA;ACEJ","file":"style.css"}
+>>>>>>> test
